@@ -43,7 +43,7 @@ Then you can start using RelicJS by importing just the components you'll need:
 |✅|Countdown|
 |🚧|Divider|
 |🚧|Drawer|
-|🚧|Dropdown|
+|✅|Dropdown|
 |🚧|Footer|
 |🚧|Hero|
 |🚧|Indicator|
