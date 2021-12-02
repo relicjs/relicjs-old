@@ -3,9 +3,9 @@
 </script>
 
 <script lang="ts">
-  import Button from './Button.svelte'
+  import Button from './Button.svelte';
   import Icon from "./Icon.svelte";
-  import { classnames } from './utils'
+  import { classnames } from './utils';
 
   export let type:AlertType = 'default' as AlertType;
   export let icon:string = '';
