@@ -4,7 +4,7 @@ const config = {
 	smartypants: {
 		dashes: 'oldschool'
 	},
-
+	
 	remarkPlugins: [],
 	rehypePlugins: []
 };

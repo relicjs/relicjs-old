@@ -19,6 +19,14 @@
 </script>
 
 <script>
+	import hljs from 'highlight.js';
+	import 'highlight.js/styles/night-owl.css';
+	import { onMount } from 'svelte';
+
+	onMount(() => {
+		hljs.highlightAll();
+	})
+	
 	export let menu;
 </script>
 
@@ -38,7 +46,7 @@
             {/each}
             </ul>
 		</div>
-		<div class="col-span-12 md:col-span-8 xl:col-span-10 prose">
+		<div class="col-span-12 md:col-span-8 xl:col-span-10 documentation">
 			<slot />
 		</div>
 	</div>

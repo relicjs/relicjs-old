@@ -32,7 +32,7 @@
   
   <div class="flex-1">
     {#if icon}
-      <Icon name={icon} color={iconColor} class="w-6 h-6" />
+      <Icon name={icon} color={iconColor} size="24" />
     {/if}
     <div class="mx-2">
       <h4>

@@ -2,7 +2,7 @@
     import * as mdiJs from '@mdi/js';
     import { classnames } from './utils';
   
-    export let name:string = '';
+    export let name:string = 'account';
     export let color:string = 'black';
     export let size:string = '24';
 
@@ -12,6 +12,7 @@
     export { className as class };
     $: classes = classnames(
         className,
+        `inline-block text-${color}`
     );
   </script>
   
@@ -21,7 +22,7 @@
     style="{`width:${size}px;height:${size}px;`}"
     viewbox="{`0 0 24 24`}"
 >
-        <path d={mdiJs['mdi'+capitalize(name)]} /> <!-- account -->
+    <path d={mdiJs['mdi'+capitalize(name)]} />
 </svg>
 
 <style>

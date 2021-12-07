@@ -1,17 +1,20 @@
----
-title: Badge
-label: accent
----
-
 <script>
-    import Badge from '$lib/components/Badge.svelte';
+    import { Badge } from '$lib/components';
 </script>
 
-# {title}
+# Badges
 
 ## Example
 
-<Badge color="primary">Hello</Badge>
+<div class="space-y-3">
+    <div class="space-x-2">
+        <Badge color="neutral">neutral</Badge>
+        <Badge color="primary">primary</Badge>
+        <Badge color="secondary">secondary</Badge>
+        <Badge color="accent">accent</Badge>
+        <Badge color="ghost">ghost</Badge>
+    </div>
+</div>
 
 ## Usage
 
@@ -20,5 +23,13 @@ label: accent
     import Badge from '$lib/components/Badge.svelte';
 </script>
 
-<Badge color="primary">There was a problem.</Badge>
+<Badge color="neutral">neutral</Badge>
+<Badge color="primary">primary</Badge>
+<Badge color="secondary">secondary</Badge>
+<Badge color="accent">accent</Badge>
+<Badge color="ghost">ghost</Badge>
 ```
+
+## Reference
+
+[https://daisyui.com/components/badge](https://daisyui.com/components/badge)

@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-    export type BadgeColor = 'primary' | 'secondary' | 'accent' | 'ghost' | 'info' | 'success' | 'warning' | 'error'
+    export type BadgeColor = 'neutral' | 'primary' | 'secondary' | 'accent' | 'ghost' | 'info' | 'success' | 'warning' | 'error'
     export type BadgeSize = 'lg' | 'md' | 'sm' | 'xs';
 </script>
 
