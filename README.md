@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/7969579/144949311-b4eeafe5-3537-41eb-a684-8c165e74ad00.png" />
+</p>
+
+
 # Components built with Svelte 3, TailwindCSS and daisyUI
 
 This library provides an easy way to get a Svelte project up and running as fast as possible by giving you all the tools you need to build complex web applications from the ground up without having to deal with importing and implementing external JavaScript libraries.
