@@ -102,7 +102,7 @@ Then you can start using RelicJS by importing just the components you'll need:
 ### Editors
 |Status|Component|Library|
 |---|---|---|
-|🚧|Quill|https://quilljs.com|
+|✅|Quill|https://quilljs.com|
 
 ### Charts
 |Status|Component|Library|

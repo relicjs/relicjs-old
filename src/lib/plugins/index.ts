@@ -1,0 +1,1 @@
+export { default as ClipboardButton } from './clipboard-js/ClipboardButton.svelte';
