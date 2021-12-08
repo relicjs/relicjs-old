@@ -9,7 +9,7 @@ export default {
     },
     theme: {
         success: {
-            background: daisyui.success,
+            background: '#F00',
             barBackground: daisyui.success,
             color: '#FFF'
         },
