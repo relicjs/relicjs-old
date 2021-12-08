@@ -26,10 +26,10 @@ const config = {
 			assets: 'site',
 			fallback: null
 		}),
-		appDir: 'internal',
+		appDir: '.',
 		paths: {
 			// base: dev ? '' : '/relicjs.github.io',
-			base: '/relicjs'
+			base: '/site'
 		},
 
 		// hydrate the <div id="svelte"> element in src/app.html
