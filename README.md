@@ -5,9 +5,9 @@
 # 🛠 Status: In Development
 > RelicJS is currently in development. It's on the fast track to a 1.0 release, so we encourage you to use it and give us your feedback, but there are things that haven't been finalized yet and you can expect some changes.
 
-## About
+## About RelicJS
 
-This library provides an easy way to get a Svelte project up and running as fast as possible by giving you all the tools you need to build complex web applications from the ground up without having to deal with importing and implementing external JavaScript libraries.
+RelicJS provides an easy way to get a Svelte project up and running as fast as possible by giving you all the tools you need to build complex web applications from the ground up without having to deal with importing and implementing external JavaScript libraries.
 
 ## Install
 
