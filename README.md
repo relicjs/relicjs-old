@@ -2,8 +2,10 @@
   <img width="200" src="https://user-images.githubusercontent.com/7969579/144949311-b4eeafe5-3537-41eb-a684-8c165e74ad00.png" />
 </p>
 
+# 🛠 Status: In Development
+> RelicJS is currently in development. It's on the fast track to a 1.0 release, so we encourage you to use it and give us your feedback, but there are things that haven't been finalized yet and you can expect some changes.
 
-# Components built with Svelte 3, TailwindCSS and daisyUI
+## About
 
 This library provides an easy way to get a Svelte project up and running as fast as possible by giving you all the tools you need to build complex web applications from the ground up without having to deal with importing and implementing external JavaScript libraries.
 
