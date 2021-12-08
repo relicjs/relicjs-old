@@ -26,6 +26,7 @@ const config = {
 			assets: 'pages',
 			fallback: null
 		}),
+		appDir: 'internal',
 		// paths: {
 		// 	base: dev ? '' : '/relicjs.github.io',
 		// },
