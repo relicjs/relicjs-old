@@ -26,11 +26,11 @@ const config = {
 			assets: 'docs',
 			fallback: null
 		}),
-		appDir: '.',
-		paths: {
-			// base: dev ? '' : '/relicjs.github.io',
-			base: '/docs'
-		},
+		appDir: 'internal',
+		// paths: {
+		// 	// base: dev ? '' : '/relicjs.github.io',
+		// 	base: '/'
+		// },
 
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#svelte'
