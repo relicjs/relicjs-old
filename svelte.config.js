@@ -22,8 +22,8 @@ const config = {
 	kit: {
 		adapter: adapter({
 			// default options are shown
-			pages: 'pages',
-			assets: 'pages',
+			pages: 'site',
+			assets: 'site',
 			fallback: null
 		}),
 		appDir: 'internal',
