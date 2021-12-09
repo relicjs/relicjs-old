@@ -20,7 +20,7 @@ export { default as Kbd } from '$lib/components/Kbd.svelte';
 export { default as Link } from '$lib/components/Link.svelte';
 export { default as Mask } from '$lib/components/Mask.svelte';
 export { default as MockupPhone } from '$lib/components/MockupPhone.svelte';
-export { default as MockupWindows } from '$lib/components/MockupWindows.svelte';
+export { default as MockupWindow } from '$lib/components/MockupWindow.svelte';
 export { default as Modal } from '$lib/components/Modal.svelte';
 export { default as Progress } from '$lib/components/Progress.svelte';
 export { default as Stack } from '$lib/components/Stack.svelte';
