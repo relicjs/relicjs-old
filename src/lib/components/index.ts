@@ -16,6 +16,7 @@ export { default as Collapse } from '$lib/components/Collapse.svelte';
 export { default as Countdown } from '$lib/components/Countdown.svelte';
 export { default as Dropdown } from '$lib/components/Dropdown.svelte';
 export { default as DropdownContent } from '$lib/components/DropdownContent.svelte';
+export { default as Icon } from '$lib/components/Icon.svelte';
 export { default as Kbd } from '$lib/components/Kbd.svelte';
 export { default as Link } from '$lib/components/Link.svelte';
 export { default as Mask } from '$lib/components/Mask.svelte';
