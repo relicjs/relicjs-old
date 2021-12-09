@@ -1,5 +1,5 @@
 <script>
-    import { ClipboardButton } from 'relicjs/plugins';
+    import { ClipboardButton } from '$lib/plugins';
 </script>
 
 # Clipboard JS

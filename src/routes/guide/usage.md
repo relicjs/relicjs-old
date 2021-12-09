@@ -1,5 +1,5 @@
 <script>
-    import { Alert, Button, Icon } from 'relicjs/components'
+    import { Alert, Button, Icon } from '$lib/components'
 </script>
 
 <div class="prose">

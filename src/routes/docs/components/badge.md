@@ -1,5 +1,5 @@
 <script>
-    import { Badge } from 'relicjs/components';
+    import { Badge } from '$lib/components';
 </script>
 
 # Badges

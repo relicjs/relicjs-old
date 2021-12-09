@@ -1,5 +1,5 @@
 <script>
-    import { Button } from 'relicjs/components';
+    import { Button } from '$lib/components';
 </script>
 
 # Button

@@ -1,1 +1,0 @@
-import{S as c,i,s as l,e as d,t as f,c as h,a as m,g as u,d as o,f as p,H as _,I as n}from"../chunks/vendor-af0f2ef7.js";function x(r){let e,s;return{c(){e=d("h1"),s=f("Relic.JS")},l(t){e=h(t,"H1",{});var a=m(e);s=u(a,"Relic.JS"),a.forEach(o)},m(t,a){p(t,e,a),_(e,s)},p:n,i:n,o:n,d(t){t&&o(e)}}}class v extends c{constructor(e){super();i(this,e,null,x,l,{})}}export{v as default};
