@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="description" content="" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+
+		
+
+		<link rel="modulepreload" href="/relicjs/_app/start-4d209ed9.js">
+		<link rel="modulepreload" href="/relicjs/_app/chunks/vendor-dd92dce1.js">
+		<link rel="modulepreload" href="/relicjs/_app/pages/__layout.svelte-77bb13b6.js">
+		<link rel="modulepreload" href="/relicjs/_app/pages/index.svelte-7dc90549.js">
+		<link rel="stylesheet" href="/relicjs/_app/assets/start-464e9d0a.css">
+		<link rel="stylesheet" href="/relicjs/_app/assets/pages/__layout.svelte-cdfb086a.css">
+
+		<script type="module">
+			import { start } from "/relicjs/_app/start-4d209ed9.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"/relicjs","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/relicjs/_app/pages/__layout.svelte-77bb13b6.js"),
+						import("/relicjs/_app/pages/index.svelte-7dc90549.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "\u002F",
+						query: new URLSearchParams(""),
+						params: {}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body class="h-full">
+		<div id="svelte">
+
+
+<div class=" alert alert-success"><div class="flex-1">
+    <div class="mx-2"><h4>Welcome to RelicJS!</h4>
+
+      </div></div>
+
+  </div>
+<h1>Relic.JS</h1>
+
+
+
+			
+		</div>
+	</body>
+</html>
