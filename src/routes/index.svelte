@@ -1,1 +1,1 @@
-<h1>Relic Homepage</h1>
+<h1>Relic.JS</h1>
