@@ -1,8 +1,8 @@
 <script>
 	export let menu = [
         [null, '🚀 Getting Started'],
-        ['/guide/installation', 'Installation'],
-        ['/guide/usage', 'Usage'],
+        ['/relicjs/guide/installation', 'Installation'],
+        ['/relicjs/guide/usage', 'Usage'],
     ]
 </script>
 

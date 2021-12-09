@@ -22,7 +22,7 @@ export async function get() {
             files.forEach(file => {
                 let fileName = file.split('.')[0];
                 item.submenu = [...item.submenu, {
-                    route: `/docs/${dir}/${fileName}`,
+                    route: `/relics/docs/${dir}/${fileName}`,
                     label: fileName
                 }]
             });

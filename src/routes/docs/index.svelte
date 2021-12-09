@@ -2,7 +2,7 @@
 	export function load({ error, status }) {
 		return {
             status: 301,
-			redirect: '/docs/components/alert'
+			redirect: '/relicjs/docs/components/alert'
 		};
 	}
 </script>

@@ -18,8 +18,8 @@
 	<div class="hidden px-2 mx-2 navbar-center lg:flex">
 	  <div class="flex items-stretch">
 		<!-- <a href="/" class="btn btn-ghost btn-sm rounded-btn">Home</a> -->
-		<a href="/guide/installation" class="btn btn-ghost btn-sm rounded-btn">Guide</a>
-		<a href="/docs/components/alert" class="btn btn-ghost btn-sm rounded-btn">Docs</a>
+		<a href="/relicjs/guide/installation" class="btn btn-ghost btn-sm rounded-btn">Guide</a>
+		<a href="/relicjs/docs/components/alert" class="btn btn-ghost btn-sm rounded-btn">Docs</a>
 		<a href="https://github.com/relicjs/relicjs" class="btn btn-ghost btn-sm rounded-btn">Contribute</a>
 	  </div>
 	</div> 
