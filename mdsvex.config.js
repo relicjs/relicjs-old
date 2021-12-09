@@ -4,7 +4,15 @@ const config = {
 	smartypants: {
 		dashes: 'oldschool'
 	},
-	
+
+	remarkPlugins: [],
+	rehypePlugins: [],
+	extensions: ['.svelte.md', '.md', '.svx'],
+
+	smartypants: {
+		dashes: 'oldschool'
+	},
+
 	remarkPlugins: [],
 	rehypePlugins: []
 };
