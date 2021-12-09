@@ -1,0 +1,1 @@
+import{S as r,i,s as l,e as d,t as h,c as m,a as u,g as f,d as o,f as p,R as _,T as n}from"../chunks/vendor-dd92dce1.js";function x(c){let e,s;return{c(){e=d("h1"),s=h("Relic.JS")},l(t){e=m(t,"H1",{});var a=u(e);s=f(a,"Relic.JS"),a.forEach(o)},m(t,a){p(t,e,a),_(e,s)},p:n,i:n,o:n,d(t){t&&o(e)}}}class S extends r{constructor(e){super();i(this,e,null,x,l,{})}}export{S as default};
