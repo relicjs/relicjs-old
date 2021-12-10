@@ -22,10 +22,10 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		// appDir: 'internal',
-		paths: {
-			// base: dev ? '' : '/relicjs.github.io',
-			base: '/relicjs'
-		},
+		// paths: {
+		// 	// base: dev ? '' : '/relicjs.github.io',
+		// 	base: '/relicjs'
+		// },
 
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#svelte'

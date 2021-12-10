@@ -1,6 +1,6 @@
 <script context="module">
     export async function load({ page, fetch, session, stuff }) {
-		const url = `/relicjs/docs/menu`;
+		const url = `docs/menu`;
 		const res = await fetch(url);
 
 		if (res.ok) {

@@ -46,6 +46,7 @@ Then you can start using RelicJS by importing just the components you'll need:
 |✅|Button Group|
 |✅|Card|
 |🚧|Carousel|
+|✅|Code Snippet|
 |✅|Collapse|
 |✅|Countdown|
 |🚧|Divider|
