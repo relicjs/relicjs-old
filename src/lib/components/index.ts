@@ -12,6 +12,7 @@ export { default as Card } from '$lib/components/Card.svelte';
 export { default as CardActions } from '$lib/components/CardActions.svelte';
 export { default as CardBody } from '$lib/components/CardBody.svelte';
 export { default as CardTitle } from '$lib/components/CardTitle.svelte';
+export { default as CodeSnippet } from '$lib/components/CodeSnippet.svelte';
 export { default as Collapse } from '$lib/components/Collapse.svelte';
 export { default as Countdown } from '$lib/components/Countdown.svelte';
 export { default as Dropdown } from '$lib/components/Dropdown.svelte';
